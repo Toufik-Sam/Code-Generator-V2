@@ -33,6 +33,9 @@ This project is built using **Windows Forms**, **.NET Framework**, and **Microso
 ## Technologies Used
 - **Windows Forms .NET Framework**
 - **Microsoft SQL Server** for database management
+- 
+## License
+[MIT License](LICENSE)
 
 ## Contact
 [toufik.sam2022@gmail.com] - [www.linkedin.com/in/toufik-sam-bouafia-455773337]
