@@ -9,7 +9,7 @@ This project is built using **Windows Forms**, **.NET Framework**, and **Microso
 - **Automatic SQL Query Generation**: Generate SQL queries (e.g., `INSERT INTO`, `UPDATE`, `DELETE`) with a few clicks.
 - **CRUD Function Generation**: Generate full CRUD operations for database tables.
 - **DataAccess and Business Layer Classes**: Generate classes based on a 3-tier architecture.
-- **Automatic Windows Forms Controls Generation
+- **Automatic Windows** Forms Controls Generation
 - **Bank Storage** to store code.
   
 ## Getting Started
